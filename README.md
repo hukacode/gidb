@@ -1,4 +1,6 @@
+[![Release](https://github.com/hukacode/gidb/actions/workflows/release_build.yml/badge.svg)](https://github.com/hukacode/gidb/actions/workflows/release_build.yml)
 # Gitignore and Dropbox
+
 Ignore directory, files in Dropbox based on `.gitignore`.
 
 ## Installation
